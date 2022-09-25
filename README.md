@@ -11,4 +11,4 @@
 - Both men and woman had a high usage in the morning rush hour of 8am.  Wednesday seems to be the only day in the week with the lowest bike trips.
 - Male subscribers total 1.3 million vs 157k non-subscribers.  Women subscribers total 493k vs 94k non-subscribers.
 
-#[link to dashboard](https://public.tableau.com/app/profile/ramon.alonso/viz/Challenge14_16637857348880/Story4?publish=yes)
+#[link to dashboard](https://public.tableau.com/app/profile/ramon.alonso)
