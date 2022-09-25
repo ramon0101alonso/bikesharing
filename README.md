@@ -11,4 +11,11 @@
 - Both men and woman had a high usage in the morning rush hour of 8am.  Wednesday seems to be the only day in the week with the lowest bike trips.
 - Male subscribers total 1.3 million vs 157k non-subscribers.  Women subscribers total 493k vs 94k non-subscribers.
 
+# Summary.
+The use of NY Citibikes is a highly succesful program.  Men have the highest usage and subscriptions.  Maintenance can be done in the early hours of the week and also late in the afternoon midweek.  Here are the diagrams that demonstrate these results.
+
+![]()
+
+
+
 #[link to dashboard](https://public.tableau.com/app/profile/ramon.alonso)
