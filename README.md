@@ -15,7 +15,7 @@
 The use of NY Citibikes is a highly succesful program.  Men have the highest usage and subscriptions.  Maintenance can be done in the early hours of the week and also late in the afternoon midweek.  Here are the diagrams that demonstrate these results.
 
 ![](https://github.com/ramon0101alonso/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
-![]()
+![](https://github.com/ramon0101alonso/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
 ![]()
 ![]()
 
