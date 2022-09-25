@@ -16,7 +16,7 @@ The use of NY Citibikes is a highly succesful program.  Men have the highest usa
 
 ![](https://github.com/ramon0101alonso/bikesharing/blob/main/Checkout%20Times%20by%20Gender.png)
 ![](https://github.com/ramon0101alonso/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
-![]()
+![](https://github.com/ramon0101alonso/bikesharing/blob/main/Trips%20by%20Weekday%20per%20Hour.png
 ![]()
 
 
